@@ -1,0 +1,37 @@
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de distribuição e build
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Arquivos do Pytest
+.pytest_cache/
+
+# Arquivos de editores (opcional, mas recomendado)
+.vscode/
+.sublime-project
+.sublime-workspace
+.DS_Store
